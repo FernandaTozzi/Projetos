@@ -16,17 +16,9 @@ O repositório está organizado em duas principais categorias:
 2. **Projetos Acadêmicos** 🎓
    - Nesta seção, estão os projetos que fiz durante meus cursos na faculdade.
 
-<!--## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-Em meus projetos, utilizo uma variedade de tecnologias.
-
-- Linguagens de Programação: Python, JavaScript, Java, C++
-- Frameworks: React, Node.js, Django
-- Ferramentas de Desenvolvimento: Git, Docker, VS Code
--->
-## 🤝 Contribuições
-
-Fique à vontade para explorar o repositório, e se você tiver sugestões, melhorias ou quiser colaborar de alguma forma, sinta-se livre para abrir uma issue ou enviar um pull request.
+- Linguagens de Programação: HTML, CSS, JavaScript
 
 ## 📫 Contato
 
