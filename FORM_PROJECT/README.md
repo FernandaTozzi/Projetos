@@ -19,7 +19,13 @@ O objetivo é criar uma interface simples e intuitiva para que os usuários poss
 
 - **HTML**: Para estruturar o conteúdo.
 - **CSS** : Para estilizar e melhorar a apresentação visual.
-<br>
+- 
+## 💻 Tela
+<img width="100%" src="img-form.png">
+
+---
 <p align="center">
   by: Fernanda Tozzi💜
+  <br>
+  <a href="www.linkedin.com/in/fernandatozzihonorio">Linkedin</a>
 </p>
